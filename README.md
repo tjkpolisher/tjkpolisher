@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✈️ 하늘과 항공기, 드론을 좋아하여 관련 공부를 해왔습니다.
+✈️ 하늘과 항공기, 드론을 좋아하여 관련 공부를 해왔습니다.  
 🐬 현재는 데이터 분석가/데이터 엔지니어를 지망하는 초보 개발자입니다.  
 
 # 🦈Education
