@@ -10,7 +10,7 @@
 * 엔코아(플레이데이터) 데이터 엔지니어 양성 코스 26기(2023.06.01~2023.12.05)
 
 # 🐳Projects
-* Streamlit - 서울시 미세먼지 시각화
+* Streamlit - 서울시 미세먼지 시각화 (https://github.com/tjkpolisher/PlayDataMiniProject_Group4)
 * Spring boot - 네이버 웹툰 목록 및 리뷰 게시판 배포
 * Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측
 * Final Project(MyTravel) - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
