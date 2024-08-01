@@ -10,11 +10,12 @@
 * 엔코아(플레이데이터) 데이터 엔지니어 양성 코스 26기(2023.06.01~2023.12.05)
 
 # 🐳Projects
-* Streamlit - 서울시 미세먼지 시각화 (https://github.com/tjkpolisher/PlayDataMiniProject_Group4)
-* Backend (Spring boot) - 네이버 웹툰 목록 및 리뷰 게시판 배포 (https://github.com/tjkpolisher/SpringBootMiniProject)
-* Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측 (https://github.com/tjkpolisher/hadoop_stock)
-* Final Project (MyTravel) - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
+가장 최근에 진행한 프로젝트부터 리스트에 기록되어 있습니다.
 
+* MyTravel - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
+* Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측 (https://github.com/tjkpolisher/hadoop_stock)
+* Backend (Spring boot) - 네이버 웹툰 목록 및 리뷰 게시판 배포 (https://github.com/tjkpolisher/SpringBootMiniProject)
+* Streamlit - 서울시 미세먼지 시각화 (https://github.com/tjkpolisher/PlayDataMiniProject_Group4)
 
 ## 🦾Technologies Used
 
