@@ -1,4 +1,8 @@
-### Greetings! 👋
+# Greetings! 👋
+
+> **If I never leap, I'll never fly.**
+> ---------------------------
+> SUPERPOWER (feat. NATTY & JULIE of KISS OF LIFE and Mark Tuan) - VALORANT
 
 ✈️ 하늘과 항공기, 드론을 좋아하여 관련 공부를 해왔습니다.  
 🐬 엔지니어링 데이터를 활용한 파이프라인 설계를 공부하면서 데이터 엔지니어의 길을 걷고 있습니다.  
