@@ -37,7 +37,7 @@
   
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
   <a href="https://pypi.org/" target="_blank"><img src="https://img.shields.io/badge/Pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></a>
 </div>
 
