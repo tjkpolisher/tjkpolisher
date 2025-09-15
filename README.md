@@ -14,16 +14,17 @@
 * 엔코아(플레이데이터) 데이터 엔지니어 양성 코스 26기(2023.6.7~2023.12.5)
 * MS AI 엔지니어 1기(2025.5.7~2025.8.12)
 
-# 🪽Career
+# 🚀Career
 * 한국능률협회 미래내일 일경험 IT 직무 - 업무 자동화 팀(2024.12~2025.1)
 
 # 🐳Projects
 가장 최근에 진행한 프로젝트부터 리스트에 기록되어 있습니다.
 
+* Artemia - 전시회/예술 행사 맞춤 추천 및 큐레이션 서비스 (https://github.com/Artemia-project/artemia-backend)
+* FarmPilot - 귀농 라이프스타일 큐레이션 프로젝트 (https://github.com/SesacML-1Team/Farm-dataPreprocessing, https://github.com/SesacML-1Team/Farm-SDKs)
 * MyTravel - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
 * Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측 (https://github.com/tjkpolisher/hadoop_stock)
 * Backend (Spring boot) - 네이버 웹툰 목록 및 리뷰 게시판 배포 (https://github.com/tjkpolisher/SpringBootMiniProject)
-* Streamlit - 서울시 미세먼지 시각화 (https://github.com/tjkpolisher/PlayDataMiniProject_Group4)
 
 ## 🦾Technologies Used
 
