@@ -26,6 +26,11 @@
 * Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측 (https://github.com/tjkpolisher/hadoop_stock)
 * Backend (Spring boot) - 네이버 웹툰 목록 및 리뷰 게시판 배포 (https://github.com/tjkpolisher/SpringBootMiniProject)
 
+# 📚 Teaching & Mentoring
+* 2025 AI와 동행하는 경북형 교육혁신 학교관리자 역량강화 워크숍 (2025. 11. 22)
+* 2026 JEJU・AWS Global Space Challenge Hackathon (2026. 02. 02 ~ 2026. 02. 04)
+* 아마존과 함께하는 2026 핵-AI-톤 직무연수 2탄 (2026. 02. 06 ~ 2026. 02. 08)
+
 ## 🦾Technologies Used
 
 <div align=center>
