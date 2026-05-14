@@ -60,7 +60,7 @@
 <div align=center>
   <a href="https://mail.google.com" target="_blank"><img src="https://img.shields.io/badge/jktak5609@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://tjkpolisher.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  <a href="https://tjkpolisher.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
+  <a href="https://www.threads.com/@tjkpolisher" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/></a>
 </div>
   
   
